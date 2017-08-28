@@ -1,0 +1,16 @@
+body{
+    font-family: "cuprum";
+    font-size: inherit;
+    color: inherit;
+    line-height: normal;
+    font-weight: normal;
+}
+
+.offers-category h3{
+    font-size: 24px;
+    color: darkred;
+    line-height: 30px;
+
+}
+
+

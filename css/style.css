@@ -1,0 +1,14 @@
+body{
+    font-family: cuprum;
+    font-size: inherit;
+    color: inherit;
+    line-height: normal;
+    font-weight: normal;
+}
+
+.offer-category{
+    font-size: 24px;
+    color: #ffffff;
+    line-height: 30px;
+
+}
