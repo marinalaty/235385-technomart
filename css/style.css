@@ -1,4 +1,6 @@
 body{
+  margin: 0;
+  padding: 0;
     font-family: cuprum;
     font-size: inherit;
     color: inherit;
@@ -11,4 +13,12 @@ body{
     color: #ffffff;
     line-height: 30px;
 
+}
+
+.btn-up .btn-down{
+  font-size: 0;
+}
+
+.slider-btn-next .slider-btn-now{
+  font-size: 0;
 }
